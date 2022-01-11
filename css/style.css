@@ -1,0 +1,44 @@
+body
+{
+	background-color: #00134d;
+}
+h1
+{
+	font-size: 30px;
+	font-family: tahoma;
+	margin-bottom: 50px;
+	text-align: center;
+}
+a{
+	margin-left: 46%;
+	color: #005ce6;
+	font-family: tahoma;
+	font-size: 16px;
+}
+button
+{
+	padding: 10px;
+	color: white;
+	background-color: black;
+	margin-left: 28%;
+	margin-bottom: 15px;
+}
+div.content{
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 60%;
+}
+
+div.display{
+	background-color: #D3D3D3;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10%;
+	padding-bottom: 20%;
+	padding-left: 19px;
+	max-width: 59%;
+	font-family: tahoma;
+	font-size: 30px;
+	color: #005ce6;
+}
